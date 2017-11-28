@@ -1,0 +1,360 @@
+# depslib dependency file v1.0
+1466604488 source:c:\users\ins4nity\documents\isima\projet\projet.c
+	"projet.h"
+
+1466592879 c:\users\ins4nity\documents\isima\projet\projet.h
+	"board.h"
+
+1466851795 source:c:\users\ins4nity\documents\isima\projet\board.c
+	"board.h"
+
+1466851833 c:\users\ins4nity\documents\isima\projet\board.h
+	<conio.h>
+	"boardUtils.h"
+	"utils.h"
+
+1466851833 c:\users\ins4nity\documents\isima\projet\struct.h
+	"param.h"
+
+1466852285 c:\users\ins4nity\documents\isima\projet\param.h
+
+1466708865 c:\users\ins4nity\documents\isima\projet\utils.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"struct.h"
+
+1466708936 source:c:\users\ins4nity\documents\isima\projet\utils.c
+	"utils.h"
+
+1466851833 c:\users\ins4nity\documents\isima\projet\boardutils.h
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	"struct.h"
+
+1466851833 source:c:\users\ins4nity\documents\isima\projet\boardutils.c
+	"boardUtils.h"
+
+1466758747 source:c:\users\ins4nity\documents\isima\projet\main.c
+	"main.h"
+
+1466718938 c:\users\ins4nity\documents\isima\projet\main.h
+	"board.h"
+
+1498044678 source:f:\projet nocg\board.c
+	"board.h"
+
+1493482572 f:\projet nocg\board.h
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"struct.h"
+	"param.h"
+	"boardUtils.h"
+	"entity.h"
+	"graphes.h"
+	"utils.h"
+
+1493482462 f:\projet nocg\boardutils.h
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"struct.h"
+	"param.h"
+
+1498046528 f:\projet nocg\struct.h
+
+1498047672 f:\projet nocg\param.h
+
+1498043206 f:\projet nocg\utils.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"param.h"
+
+1493478030 source:f:\projet nocg\boardutils.c
+	"boardUtils.h"
+
+1498056462 source:f:\projet nocg\main.c
+	"main.h"
+
+1498055362 f:\projet nocg\main.h
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"struct.h"
+	"inventaire.h"
+	"board.h"
+	"entity.h"
+	"menus.h"
+	"param.h"
+
+1498043192 source:f:\projet nocg\utils.c
+	"utils.h"
+
+1497972298 f:\projet nocg\graphes.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"param.h"
+
+1497972310 source:f:\projet nocg\graphes.c
+	"graphes.h"
+
+1498055652 f:\projet nocg\menus.h
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+	"param.h"
+	"board.h"
+	"entity.h"
+
+1498055648 source:f:\projet nocg\menus.c
+	"menus.h"
+
+1493475504 f:\projet nocg\hero.h
+	<stdlib.h>
+	<time.h>
+	"struct.h"
+	"param.h"
+	"utils.h"
+
+1493474934 source:f:\projet nocg\hero.c
+	"hero.h"
+
+1498044168 f:\projet nocg\entity.h
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	"struct.h"
+	"param.h"
+	"utils.h"
+	"boardUtils.h"
+	"inventaire.h"
+
+1498055148 source:f:\projet nocg\entity.c
+	"entity.h"
+
+1498041636 source:f:\projet nocg\inventaire.c
+	"inventaire.h"
+
+1498042140 f:\projet nocg\inventaire.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+	"param.h"
+
+1498044678 source:e:\projet\board.c
+	"board.h"
+
+1493482572 e:\projet\board.h
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"struct.h"
+	"param.h"
+	"boardUtils.h"
+	"entity.h"
+	"graphes.h"
+	"utils.h"
+
+1498046528 e:\projet\struct.h
+
+1498047672 e:\projet\param.h
+
+1493482462 e:\projet\boardutils.h
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"struct.h"
+	"param.h"
+
+1498044168 e:\projet\entity.h
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	"struct.h"
+	"param.h"
+	"utils.h"
+	"boardUtils.h"
+	"inventaire.h"
+
+1498043206 e:\projet\utils.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"param.h"
+
+1498042140 e:\projet\inventaire.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+	"param.h"
+
+1497972298 e:\projet\graphes.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"param.h"
+
+1493478030 source:e:\projet\boardutils.c
+	"boardUtils.h"
+
+1498056588 source:e:\projet\entity.c
+	"entity.h"
+
+1497972310 source:e:\projet\graphes.c
+	"graphes.h"
+
+1498041636 source:e:\projet\inventaire.c
+	"inventaire.h"
+
+1498056462 source:e:\projet\main.c
+	"main.h"
+
+1498055362 e:\projet\main.h
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"struct.h"
+	"inventaire.h"
+	"board.h"
+	"entity.h"
+	"menus.h"
+	"param.h"
+
+1498055652 e:\projet\menus.h
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+	"param.h"
+	"board.h"
+	"entity.h"
+
+1498056550 source:e:\projet\menus.c
+	"menus.h"
+
+1498056578 source:e:\projet\utils.c
+	"utils.h"
+
+1498169124 source:f:\projet\board.c
+	"board.h"
+
+1498159064 f:\projet\board.h
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"struct.h"
+	"param.h"
+	"boardUtils.h"
+	"entity.h"
+	"graphes.h"
+	"utils.h"
+
+1498046528 f:\projet\struct.h
+
+1498158278 f:\projet\param.h
+
+1493482462 f:\projet\boardutils.h
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"struct.h"
+	"param.h"
+
+1498159386 f:\projet\entity.h
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	"struct.h"
+	"param.h"
+	"utils.h"
+	"boardUtils.h"
+	"inventaire.h"
+
+1498169924 f:\projet\utils.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"param.h"
+
+1498158308 f:\projet\inventaire.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+	"param.h"
+
+1497972298 f:\projet\graphes.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"param.h"
+
+1493478030 source:f:\projet\boardutils.c
+	"boardUtils.h"
+
+1498162928 source:f:\projet\entity.c
+	"entity.h"
+
+1497972310 source:f:\projet\graphes.c
+	"graphes.h"
+
+1498161468 source:f:\projet\inventaire.c
+	"inventaire.h"
+
+1498169932 source:f:\projet\main.c
+	"main.h"
+
+1498169922 f:\projet\main.h
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"struct.h"
+	"inventaire.h"
+	"board.h"
+	"entity.h"
+	"menus.h"
+	"param.h"
+
+1498159136 f:\projet\menus.h
+	"struct.h"
+	"param.h"
+	"board.h"
+	"entity.h"
+	"saves.h"
+
+1498168232 source:f:\projet\menus.c
+	"menus.h"
+
+1498170526 source:f:\projet\utils.c
+	"utils.h"
+
+1498163176 f:\projet\saves.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<windows.h>
+	<time.h>
+	"struct.h"
+	"inventaire.h"
+
+1498170436 source:f:\projet\saves.c
+	"saves.h"
+
